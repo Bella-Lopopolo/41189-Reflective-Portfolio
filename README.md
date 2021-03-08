@@ -1,8 +1,8 @@
+# 41189-Reflective-Portfolio
 
+## My learnings for each week - Isabella Lopopolo***
 
-***My learnings for each week - Isabella Lopopolo***
-
-***Week 2:*** 
+### Week 2:
 
 
 **What have I learnt this week?**
