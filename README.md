@@ -49,7 +49,7 @@ The theory of parsimony where the best model is always the one which achieves th
 
 **What have I learnt this week?** 
 
-To reflect upon the learning process in this workshop is can be said that I learnt a variety of subtopic areas which fall under the topic of supermarket models. These topic areas included: 
+To reflect upon the learning process in this workshop it can be said that I learnt a variety of subtopic areas which fall under the topic of supermarket models. These topic areas included: 
 
 - Models of how people behave  
 
@@ -94,3 +94,62 @@ Next time in order to improve I reflect that I will be catch-up on any slide inf
 **What theory proved to be useful and why? What have I learnt from this?** 
 
 Upon reflection I have realised a theory learnt in this week's workshop which proved to be useful was, that we shouldn’t presume behavioural models are rational, and we should observe how they behave, then use the observations to make a distinction of whether the model of how people behave should showing rational or irrational traits. I have learnt from this theory that not everything is the easiest or most obvious seeming possibility as it’s believed most humans behave rationally. Instead, we must look more detailed into their mannerisms and use this in our models in order to display an understanding of all biases and heuristics. 
+
+
+
+
+
+### Week 4: 
+
+
+**What have I learnt this week?** 
+
+Through reflecting upon my learnings for this lesson I believe the main stand outs of my learning were the diagrams, Causal loop diagram which is a diagram which graphically represents the relationships between several variables within a problem or situation. The most interesting area of learning within the causal loop diagram topic was where we went off in groups to make our version of this diagram based off a problem. I found this area most fundamental to stimulating my learning as it allowed me to understand how to put this diagram together effectively. By pulling a part a scenario then putting it together as a casual loop diagram, I was able to further build an understanding of the flow and how the casual loop diagrams are used as a model and how they inform people through their displays.  
+
+
+**What do I 'now know' that I did not before?** 
+
+Upon reflection I have gathered that what I now know which I did not before is that there is more than one mode of behaviour which are fundamental in models. This learning was interesting to me as it forced me to reflect on past knowledge and made me question why I only thought there was one mode of behaviour as it makes perfect sense that there are six which all meet their own individual purpose, and all evoke different model outcomes. I also was not aware that all these different modes of behaviour were split into two subcategories, fundamental which are: 
+
+- Exponential growth & decay 
+
+- Goal seeking 
+
+- Oscillation 
+
+And common which are: 
+
+- S shaped Growth 
+
+- Growth with overshoot 
+
+- Overshoot and collapse 
+
+All these different behavioural modes have individual unique interpretations but share connections between structures which assist in creating hypotheses, which is why it's so fundamental that I now know all this beneficial information as in my mind prior to learning this, I believed behavioural models were a lot less complexed. 
+
+
+**What insights have I gained?** 
+
+Through reflecting on this week's workshop, I believe I gained great insight on the three different logics behind network formations which can be either random, preferential attachment and small world. I reflect that for me the logic behind network foundations are now insights as I have built a deep understanding of the different aspects of each logical foundation, understand what they best accurately represent and how they are formed. I also have such a great understanding that I can make links to real-life examples of the different logics behind network foundations. For example, small world foundational networks can be used to describe animal food chains/webs and random network foundations can be used to graph the global spread of coronavirus throughout different countries. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+Looking back on this week's workshop I have perceived that my strength for this topic is being able to completely understand measures of network structures particularly the area of shortest paths. I reflect that this area is my main strength as I have prior experience of these teachings due to high school learnings in maths. I believe it is a strength as I understood each component of measuring network structures completely and didn’t require any extra learning to understand the concepts.  
+
+I reflect that a weakness I experienced through this workshop is being able to read and understand the flows of stabilising loops and how they balance the feedbacks. I struggled in this area as I found it difficult to read the different flows given as examples in the slides then understand what they are representing and the method they are showing. Therefore, upon reflection I need to work on this area more in order to transform this weakness into a strength. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+Challenges my team and I experienced whilst in our breakout room were that we struggled to create a causal loop diagram and a stock flow diagram while on a zoom call. This proved to be difficult as this task required us to build a whole diagram and converse our ideas whilst we weren't together. In order to overcome this challenge, we created a google doc where we were all able to all lay out our ideas and opinions of how the diagram should be drawn, then discuss them all and create the diagram using shapes on the document. This way we were all able to contribute as a group and choose the best solution as a group. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+Upon reflection I have realised that in order to improve, next time I will ask more questions about areas I don’t understand or am struggling with, such as in this lesson being able to read and understand the flows of stabilising loops and how they balance the feedbacks. This is because I need to overcome being shy on zoom calls and use Mr Ravindra and his teachings to my advantage and use my questions to learn faster for me to understand sooner rather than later. This will furthermore assist me rather than having to try to understand my weaknesses by myself. It will be a smarter and more effective way to learn. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+I believe through looking back at the workshop that the most effective and useful theory taught was the Stocks and Flows system being represented as the bathtub analogy. This theory was useful as it applied the learnings into a more realistic and real-life scenario therefore, I found that I understood it a lot faster and it made a lot of sense to me when put into this theory. Through this theory I learnt that stocks, which are the foundational elements of any system that you can see, feel, count, or measure at any given time, can flow in and out at different rates which can influence a change in the stocks overtime due to the actions of the flows. 
