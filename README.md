@@ -153,3 +153,47 @@ Upon reflection I have realised that in order to improve, next time I will ask m
 **What theory proved to be useful and why? What have I learnt from this?** 
 
 I believe through looking back at the workshop that the most effective and useful theory taught was the Stocks and Flows system being represented as the bathtub analogy. This theory was useful as it applied the learnings into a more realistic and real-life scenario therefore, I found that I understood it a lot faster and it made a lot of sense to me when put into this theory. Through this theory I learnt that stocks, which are the foundational elements of any system that you can see, feel, count, or measure at any given time, can flow in and out at different rates which can influence a change in the stocks overtime due to the actions of the flows. 
+
+
+
+
+### Week 5: 
+
+
+**What have I learnt this week?** 
+
+Upon reflection I gathered that what I learnt this week was about the probability distributions and how to understand and develop intuition on how actions and decisions join and connect to form a complex system. I learnt these through understanding how things aggregate which was exposed to us through disassembling the characteristics of a complex system and identifying how each area flows to the next. We also learnt how biases and different forms of network can display aggregation of action. My learnings for this area of human-centred complex systems really increased when I related my personal actions of aggregation such as my decisions, interactions, and preferences to build an understanding which I can relate to more as I find it allows me to absorb all the facts I've learnt holistically for each topic. 
+
+
+**What do I 'now know' that I did not before?** 
+
+Through reflecting I have realised that what I now know which I did not before is that probability distribution is the representation of values or outcomes that a random variable may have and that these can show how likely one could find the possible values of random variable. I believe this is a new piece of knowledge as before I thought probability distribution was why certain probabilities happen rather than it being a list of possible outcomes a variable could have. Now that I know this, I can completely understand how each outcome can link to a random variable. 
+
+
+**What insights have I gained?** 
+
+When reflecting on this workshop I realised that an insight I gained was that there were two different types of variables. One being Discrete random variables which are ones that have either a finite or countable number of possible outcomes, therefore, you can calculate its value through counting. An example of a Discrete random variables is the number of different nationalities in a country. The other type of variable is Continuous random variables which are uncountable and have an infinite number of possible values, these values are calculated by measuring. An example of this is the weather. This to me is considered an insight as by identifying and learning that there are two different types of variables I can build a greater and deeper understanding of variables and their relation to probability. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+My perceived strengths that I have observed through reflecting upon this topic are that I found this class a breeze as I understood all that was being taught quite easily and didn’t overcomplicate my learnings in my head as I sometimes do, which can confuse me. I was able to stay on top of the work and understand the benefits behind the group activities we had to complete also. 
+
+My weaknesses however were that I didn’t take as many notes during this class due to me understanding everything so well. Therefore, through reflecting I gathered it would have been smarter of me to take notes even if I did understand to well so that later I can go back and revise them. I consider this a weakness as I was more listening to what was being discussed rather than multitasking like I normally do, where I listen and note take at the same time. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+Challenges I encountered were when we went off into to complete different tasks as a group, this is due to it being difficult to create diagrams as a group when we all weren't together as we struggled all contributing and conveying all our ideas to each other. We attempted to use a google doc which was a slow start, but we eventually were able to get most of the task done, however I would have liked to get them all done. Personally, I don’t think we handled the challenge well as a team as it ended up being myself and two others doing all the work which his disappointing considering there were 6-7 of us in the group. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+In the future I will motivate my team to divide all tasks evenly throughout the group so that as a team everyone works together and to ensure everyone works on the tasks. The anticipated results of this improvement will ensure everyone's ideas are heard and that all the tasks required are completed within the hour Mr Ravindra provided us with. Then all our learning can be benefited. 
+
+Another element of the workshop I will improve in next time is when presenting the group work, we created I will in future, plan out what I'm going to say more in order to ensure I am clear and concise with my presentation of our findings and representations of our learning. If I improve on this my presentation will be a lot shorter and easier to follow rather than me having to take time reading what I've written to know which points to include right as everyone is listening to me present. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+Upon reflection I believe a theory which proved to be useful to my learning was that the size of the power law’s exponent determines the likelihood and size of large events. This theory was useful as it allowed me to further understand how power laws and their formulas work to represent or calculate events. This proved to be useful as it allowed me to gather a perception of why companies such as AMAZON use power laws and how certain models can produce different power laws. 
