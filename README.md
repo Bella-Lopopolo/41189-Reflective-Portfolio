@@ -197,3 +197,55 @@ Another element of the workshop I will improve in next time is when presenting t
 **What theory proved to be useful and why? What have I learnt from this?** 
 
 Upon reflection I believe a theory which proved to be useful to my learning was that the size of the power law’s exponent determines the likelihood and size of large events. This theory was useful as it allowed me to further understand how power laws and their formulas work to represent or calculate events. This proved to be useful as it allowed me to gather a perception of why companies such as AMAZON use power laws and how certain models can produce different power laws. 
+
+
+
+
+### Week 6:
+
+
+**What have I learnt this week?** 
+
+Upon reflection this week I learnt how complex systems evolve and change over time. This broad learning was gathered through more specific learnings such as what Markov Models are and their processes and also what random walk models are and how they fit into complex systems within our world. Something particularly interesting that I reflect I learnt is that Markov Models are particularly flexible, and are able to be applied to many situations as they are extremely simple to implement as all possible probabilities are able to be applied to all participants within the system and its processes. Another interesting learning, I gained through this workshop was the inner workings of the random walk models. I learnt that each step within the random walk model is independent of one another but each step has 2 paths of equal likelihood, this path taken for each step is completely random. 
+
+
+**What do I 'now know' that I did not before?** 
+
+Upon reflection what I now know that I did not before is the inner workings of the Convergence Theorem, AKA Perron-Frobenius Theorem. This is the underlying assumptions of Markov processes and they are as follows: 
+
+1. Finite number of states 
+
+2. Fixed transition probabilities 
+
+3. Can eventually get from any state to another. (must be some way of transitioning between any two states (ergodicity)) 
+
+4. Not a simple cycle, i.e..it doesn’t just deterministically cycle between two or three, etc. States. 
+
+Through obtaining this knowledge furthermore what I now know that I did not before is that if these four conditions are all met in the system, the system converges into one unique equilibrium which is extremely interesting. I also now know that there are implications of these 4 underlying processes which vary from the history of the system not mattering, intervening to change the different states won’t work and that Change is temporary if transition probabilities stay the same 
+
+
+**What insights have I gained?** 
+
+Through reflecting I realised insights I gained this week within the workshop is that percolation, riots, broadcasts, diffusion, and contagion are model ways we transfer information throughout our world.  These make epidemiology, communication and information systems occur as they act as central roles in each area. I built a deeper understanding that these models we examined are highly non-linear, which means that a small change can create a big effect which is extremely disproportional. Through learning these insights, I have a greater understanding of the inner workings of the systems within our world and how different concepts and systems work together to produce another system. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+Upon reflection this week I believe my perceived strengths are that I am on top of all my group work for the assignment and I have a lot of motivation to complete my required work as I have interest in the topic. Another one of my strengths is that when working in my group I give my suggestion then as for their opinions on my suggestion to ensure everyone is involved in decision making and is getting involved in the group assignment, this also links to my strength of evenly delegating work when people are unsure of what they need to do, which was required of me this week when working on our assignment. 
+
+A weakness I have observed is that I sometimes lose confidence in myself and my judgement when working with other people and sometimes shy away of sharing my own opinions as I fear the other group members might think I'm being bossy or trying to takeover. Upon reflection I have realised this weakness can easily be transformed into a strength and that I shouldn’t shy away from sharing my opinions as people will more than likely have thought similar to my idea or like the angle, I took my opinion rather than thinking negatively about it. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+A Challege I encountered along with my assignment group was that we had to change our research question for our report so late into the semester which significantly set us back. We needed to change our research question due to it not addressing the assignment question properly as our original question was too broad, we needed to get more specific. My team and I handled this challenge well as when we found out from Mr Ravindra that the question was incorrect, we got straight onto a group call to devise a more fitting question. Once this was handled, we came up with a more appropriate question for the assignment, which also didn’t force us to delete previous work we had done, which was positive. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+Upon reflection I have come to conclusion that next time to improve, on our group call I would jot down notes for everyone in order to ensure we don’t forget what we discussed and what everyone said during the calls. This will allow us all to keep track of ideas and not forget them in the moment chaos when everyone is enthusiastically expressing their ideas and opinions, which would furthermore set our ideas out in a format which his easiest to go through and select the best option for our group. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+Upon reflection a theory which proved to be useful was the path of dependence theory which is that whatever occurs from a certain moment forward depends on the preceding moments or the path before that we took to get here. I learnt this theory by going through the extra readings provided, following the workshop and it proved to be useful as it allowed me to create a holistic understanding of why things occur. I then related these understandings to a real-life situation which was a business's economic stability and how its stability is entirely dependent on the economic history and journey that the business has been through and what changes it made as changes can either be positive and negative in a business. Through being able to connect this theory to other subjects in my course I learnt more about how things work and why things occur through this model theory and was able to compare the theory to Markov theories where history doesn’t affect future events. 
