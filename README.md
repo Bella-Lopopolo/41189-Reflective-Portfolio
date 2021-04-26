@@ -249,3 +249,45 @@ Upon reflection I have come to conclusion that next time to improve, on our grou
 **What theory proved to be useful and why? What have I learnt from this?** 
 
 Upon reflection a theory which proved to be useful was the path of dependence theory which is that whatever occurs from a certain moment forward depends on the preceding moments or the path before that we took to get here. I learnt this theory by going through the extra readings provided, following the workshop and it proved to be useful as it allowed me to create a holistic understanding of why things occur. I then related these understandings to a real-life situation which was a business's economic stability and how its stability is entirely dependent on the economic history and journey that the business has been through and what changes it made as changes can either be positive and negative in a business. Through being able to connect this theory to other subjects in my course I learnt more about how things work and why things occur through this model theory and was able to compare the theory to Markov theories where history doesn’t affect future events. 
+
+
+
+
+### Week 7:
+
+
+**What have I learnt this week?** 
+
+This week I learnt about replicator dynamics which are known to be models of social learning this is due to learning occurring through watching actions of others and identifying the probability of taking actions and how popular these actions are and what rewards can result of these actions. Upon reflection I realised that my primary learning of replicator dynamics was that they can be used in a variety of different disciplines which range from Psychology, ecology and economics, which is extremely interesting as these three disciplines have different cores and different outcomes, with psychology replication dynamics modelling learning, ecology replicator dynamics modelling evolution and economics modelling populations of people learning. Through this topic I also learnt how the incentive of rewards can influence probability as people are more inclined to change or decide on an action which results in a reward for themselves which is basically what replicator dynamics models model, they follow and display social actions and shows how probability distributions change overtime due to rewards achieved through certain actions. 
+
+
+**What do I 'now know' that I did not before?** 
+
+Upon reflection this week through my group work and workshop participation what I now know what I did not before is that our assignment topic of “Modelling the social, economic and environmental impacts of an oil spill to determine how the impacts can be lessened” contained elements of social contagion which means it is driven by high variance rather than mean behaviour this is due to every system involved (social, economic and environmental) having different variation reactions to oil spills that can furthermore act as a flowing effect which results in negative impacts upon the systems individual stakeholders and their links. There is no average behaviour which the systems follow once being exposed to the oil, they all have individual reactions which all vary and occur due to their individual connection to the ocean and what it produces. 
+
+
+**What insights have I gained?** 
+
+Through reflecting I realised and acknowledged that the primary insight I gained this week was to do with my group and how they personally work through each assignment and what their thought processes are. Through building this deeper understanding of how they manage tasks and an appreciation of how they interact with other group members which results in me gaining an awareness of how we should tackle the task at hand to ensure we are all working together in ways each group member responds to positively and that everyone's opinions and ideas are being acknowledged so that everyone participates. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+Upon reflection my perceived strengths this week was definitely in the research area of our group assignment as I found I was “ON A ROLE” with finding viable and informative sources and information which can be used in our group assignment. I perceive this as a strength as I believe I worked very hard and assisted my team mates with researching for their parts which will really boost our assignment in a positive way. 
+
+A perceived weakness that I observed upon reflection on my actions from this week was that I particularly struggled finding motivation to begin/continue my writing process as I found I was procrastinating. I believe I was procrastinating by researching, as I wasn’t sure where I should start certain aspects of my part and where I should take the existing areas I had already written. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+When reflecting on this week I identified a challenge we encountered which was that for aspects of our assignment criteria which we needed to meet, there wasn’t a lot of viable information to use after extensive research was completed. This was a challenge encountered as it meant as a group, we had to devise a solution as we needed to address these areas of the report in order to get criteria marks. We handled this challenge well and devised a solution where we had to look in different areas such as the UTS Library website where we found research journals and articles, we could use for this area we struggled with. Therefore, the challenge was overcome. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+What I would do better next time is setting myself a word limit for each section of the report that I have been assigned to do, this is so I’m not writing crazy amounts of words in the future when there is no word limit on the assignments as I believe this will allow me to be more concise with my work and not include details which aren't necessary or required. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+Upon reflection I think the Fisher's theorem has proven to be most useful and is the rate of adaptation is proportional to the variation in that population. This theory taught me that when things are adapting through evolution an increased number of different variations such as characteristics, strategies and phenotypes, make the adaption process move faster. This theory is useful particularly when applying it to my assignment as it means I have a greater understanding on what increases adaptivity for animals and humans which therefore can be applied when we are modelling our solution. 
