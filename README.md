@@ -291,3 +291,45 @@ What I would do better next time is setting myself a word limit for each section
 **What theory proved to be useful and why? What have I learnt from this?** 
 
 Upon reflection I think the Fisher's theorem has proven to be most useful and is the rate of adaptation is proportional to the variation in that population. This theory taught me that when things are adapting through evolution an increased number of different variations such as characteristics, strategies and phenotypes, make the adaption process move faster. This theory is useful particularly when applying it to my assignment as it means I have a greater understanding on what increases adaptivity for animals and humans which therefore can be applied when we are modelling our solution. 
+
+
+
+
+### Week 8: 
+
+
+**What have I learnt this week?**
+
+Upon reflection this week I learnt about game theory, the Colonel Blotto Game, in particular which is a zero-sum game that can predict winner sand losers based on their choices to allocate their limited resources across numerous different fronts. We learnt that this game theory is re-emerging due to its relevance and real-world application in areas such as politics and social / competetive situations. I learnt within the workshop that this game has a clear winner and loser due to this game being based solely on competition between two parties, however in some situations all players can be defeated, the winner depends on which route was taken first. 
+
+
+**What do I 'now know' that I did not before?** 
+
+Through reflecting I realised that following this workshop something I now know which I did not before is that a real-world application of the Colonel Blotto Game is in court trials. I did not realise types of models such as these game theories can be represented in this way, and I now know that this game theory applies as lawyers clash over different arguments which in the game can be seen as lines of defence. The resource in use is the evidence and the time they spent preparing the lines of defence to combat their opponent, the opposing solicitors attack. Therefore, to win they need to apply their time correctly to build a strong defence. 
+
+
+**What insights have I gained?**
+
+Upon reflection an insight I gained this week was how straight forward models can represent real-life situations and just how accurately they depict the world around us. I am aware this insight was gained in previous weeks; however, it was further built upon, and I was able to gather a deeper and greater understanding of just how extensive the examples of modelling real-life situations are, for example I didn’t think before this lesson that elections can be modelled using game theory or that hiring of a person can be explained in this way also. Therefore, this lesson gave me a greater awareness of how so many models can be modelled accordingly.  
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?**
+
+My perceived strengths for this week were that I completed my assignment work ahead of the schedule I had set myself as I time-managed extremely well this week to complete my work to the best of my ability and ensure I met all criteria point on the marking guidelines. This strength was observed as following my completion of my work I was able to assist my group within the submission area, where I set out a scaffold which everyone could place their work in once they had finished so that, Rob only had to copy and paste all the work into a document to submit rather than having to try and put everyone else work in order etc. Therefore, I think finishing my work ahead of schedule assisted my team greatly. 
+
+A perceived weakness however was that I was extremely nervous about the submission and was unsure if my teammates were finished their areas as I hadn't heard from them in a day or so, therefore, through my frustration I was contacting them a lot on the group chat which could have distracted them from actually focusing on their work, Therefore, it was wrong on my behalf as I should have trusted that they would all get their required work done in time, which they did. Therefore, next time I will take a step back and not worry as they were all on top of their work! 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+Upon reflection a challenge I encountered this week was finding motivation to continue writing my responses for the report, this was due to my area being quite a big part of the assignment which required a lot of detail, which is something I didn’t realise before starting. This is due to each system having numerous stakeholders which react differently to the toxicity of the oil spills. I think I lacked a little motivation as in entirety my part (2 sections of the report) was over 4,000 words which is significant and took a lot of persistence to continue to write about the different stakeholders and models in such detail, but also as it was the largest piece of writing I have ever written. I believe I overcame this challenge very well as I pushed myself to continue and to find motivation, which was found in me really enjoying the topic. In the end through overcoming this challenge I completed my area ahead of the personal schedule I had set myself, as I put my head down and got to work efficiently. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+Upon reflection I have realised that next time to improve and do better I will ensure to be more aware of what my group members are doing for the assignment, this is because I was under the impression that for this draft pre-submission we had to complete our section and assigned area in full for this submission, therefore I did and put a lot of time doing so, whereas the rest of the group knew we only had to do brief dot points of what we planned to write in our specific area therefore I was the one of the only or the only person to write their answers in full finalised sentences. In the future if I communicate with how my group members are writing their section, I could save some time and be more up to date with where my other group members stand, however in this instance I think I was lucky I wrote it in time for the pre-submission as it can now all be marked and critiqued so I can make changes and improve it. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+Through reflection I acknowledged that a theory I learnt this week which proved useful was that the Colonel Blotto Game theory demonstrates that having more resources doesn’t guarantee victory which means that there is no best strategy on winning as anyone can win. I learnt from this that no matter what your given you can always try and use it to the best of your ability to achieve a positive outcome. This proves to be useful in real-world situations as no matter what cards you are drawn, you will always be able to form a positive outcome if you choose to apply your resources in the correct areas or fields e.g., applying time into hard work. 
