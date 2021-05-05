@@ -478,3 +478,59 @@ Through reflecting I decided that next time to improve I will give my group memb
 
 
 The cognitive learning theory proved to be useful when reflecting particularly on my weakness observed this week. This theory explains how the mind works during the learning process, and much like a computer, the mind absorbs information, processes it then uses the information to produce learning outcomes. This theory was useful for me to reflect on my weakness faced this week and how to understand and improve it. This is due to the theory teaching me that human minds have glitches and don’t process everything as quick as we think it should be, this is because every mind functions uniquely and there are different types of learning qualities which respond to individuals differently. 
+
+
+
+
+### Week 10: 
+
+
+
+**What have I learnt this week?** 
+
+
+Upon reflection this week I learnt the different aspects and elements involved in creating a functional causal loop diagram. The elements I learnt include the variables which in our groups case would be the stakeholders within each of the social, economic and environmental systems. There are also the links between the variables and the signs on these links which show how the variables interconnect. There is also a sign on the loop which shows what type of behaviour the system will produce. These elements were a fundamental learning of mine to ensure I created a functional causal loop diagram for our project which depicts all variables and all possible outcomes of the problem. 
+
+
+
+**What do I 'now know' that I did not before?** 
+
+
+Through reflecting I observed that what I now know which I did not know before was that for the non-coding aspect of our project, we are able to address and identify potential interventions which can be placed into the causal loop diagram to set the problem faced by the stakeholders of the social, economic and environmental systems right. This was an aspect of the project which I wasn’t aware of but am thankful that we have the opportunity to devise and create these interventions to have an idea which can completely fix the issues oil spillages create and make a positive impact on the different systems. 
+
+
+
+**What insights have I gained?** 
+
+
+Upon reflection an insight I gained this week was about the true meaning behind the plus and minus sign elements on the causal loop diagrams. These meanings were that the plus signs indicate a positive relation to the variable and a link marked with a minus sign indicates a negative relation. A positive link means the two variables change in the same direction whereas a negative link means the two variables change in opposite directions. This insight gained was fundamental to understanding how to collate a causal loop diagram correctly. 
+
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+
+My perceived strengths that I observed for this week was that I was actively working on our project to work towards its completion. This was seen as a perceived strength of mine due to the long period of time we have had to work on this project which involves many elements. I believe this persistent motivation is a strength as some people around this period where we are inching closer to the deadline would start to slack off and be unmotivated as the project has been worked on for nearly 10 weeks. Therefore, I am proud of the fact that I was able to muster the motivation and continue to work hard on the project without complaints. 
+
+The perceived weakness for this week that I observed of the group was that there was a lack of communication between the members this week compared to previous weeks. I feel this occurred due to the stage we are at for the project and the fact that we all didn’t have many or any questions this week regarding the project, so we all felt no need to communicate massively. This can be seen as a weakness as its always important to maintain communication between group members to ensure everyone is motivated and is up to the standards they need to be at for the project, therefore in other words it's important to check in with each other.  
+
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+
+Upon reflection the challenges we encountered this week was having a lack of questions to ask Mr Ravindra and Anushree in the zoom project question drop in. As a group we tried to discuss and develop some questions on the project which we wanted answered but were unable to create any. Despite communicating and attempting to formulate questions we were unable to make any which is why I believe we didn’t handle the challenge well as we missed a vital chance for questions to be answered since we all thought we knew what was going on in the project. 
+
+
+
+**What would I do better next time and with what anticipated results?** 
+
+
+Through reflecting I have realised that next time what I what I would do better to improve is prior to the zoom project question drop in I will set aside a time to brainstorm some questions or grey areas I have of the project elements and outlines rather than on the day panicking that we don't have any questions to ask. This will allow more time to devise ideas of areas we aren't quite certain about and to give ourselves time to think as this will most likely develop question ideas so that we can make use of the question time given to us specifically for this project. 
+
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+
+The theory of motivation which is the study of understanding what drives a person to work towards a particular goal or outcome, this is relevant to all of society but is especially important in management of projects and work because a motivated worker is more productive, and a more productive worker achieves more goals. This theory proved useful to me as it allowed me to understand why I had particular motivations to continue to work on our project consistently and motivated me even more to work hard and think deeper about the project as I know through this theory, I learnt that if I do so I will achieve more. Furthermore, I learnt that people are more motivated than others if they have clearer goals of what they want to achieve. 
