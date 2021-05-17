@@ -534,3 +534,53 @@ Through reflecting I have realised that next time what I what I would do better 
 
 
 The theory of motivation which is the study of understanding what drives a person to work towards a particular goal or outcome, this is relevant to all of society but is especially important in management of projects and work because a motivated worker is more productive, and a more productive worker achieves more goals. This theory proved useful to me as it allowed me to understand why I had particular motivations to continue to work on our project consistently and motivated me even more to work hard and think deeper about the project as I know through this theory, I learnt that if I do so I will achieve more. Furthermore, I learnt that people are more motivated than others if they have clearer goals of what they want to achieve. 
+
+
+
+
+
+## Week 11: 
+
+
+**What have I learnt this week?**
+
+
+Through reflection I have identified that this week I learnt that there are many complexities regarding the creation of a causal loop diagram regarding its format, elements and how the “story” of outcomes the diagram is properly displaying. I also learnt that the process of creating a causal loop diagram is very long due to how tedious the online applications used to create and formulate the diagrams can be. These learnings were obtained through the creation process of the diagram using the software Visual Paradigm online along with the mistakes and solutions I devised and faced throughout the whole process. 
+
+
+**What do I 'now know' that I did not before?** 
+
+
+Last week I learnt about the positive and negative variable links involved in causal loop diagrams, but what I did not know which I now know through this week's project work and reflection are that the negative links can display a decrease in output of variable for example a decrease in money (loss) for our projects Gulf community. Also, how a positive link can indicate an increase of an output such as an increase in marine mammal mortality due to the oil spills for our project. Now that I know this, I have a more holistic understanding of the creation of causal loop diagrams and how they display outputs as now our projects diagram does exactly that. 
+
+
+**What insights have I gained?** 
+
+
+Upon reflection an insight I gained this week through the creating of my groups causal loop diagram for our project was the meaning and functions of the symbol indicators found within the loops of the diagram. These are the balancing loop symbol indicators which shows the cycle which the effect of a variation in any variable generates through the loop and returns to the variable opposite to the initial one for example if a variable increase in a balancing loop the effect through the cycle will return a decrease to the same variable and vice versa. With the reinforcing loop, a change in one direction is compounded by more change. For example, if a variable increases the next will increase and so on. This insight was extremely beneficial as I had initially done the indicators incorrectly therefore, I learnt from my mistakes through this insight. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+
+Through reflecting on this week my perceived strengths that I observed was that I was able to identify my mistakes made within my creation of the causal loop diagram through overlooking my work many times and fixing the mistakes actively in order to present an accurate diagram which makes sense to its viewers. Another strength of mine which I exhibited this week was my attention to detail and patience when working with this creating of the diagram as it became extremely fiddly and required lots of adjustments throughout the process. 
+
+My perceived weakness this week however was that it took me a while to understand and figure out where on my causal loop diagram to begin and how to link all the different variables in a clear and concise format which didn’t become confusing to read and understand for the viewers. This was a perceived weakness as the diagram really needed to be clear and unconfusing in order to display all the variable outcomes, therefore I had to work thorough it slowly to find the best solution for the display. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+
+Upon reflection challenges I encountered this week was that I was actively messaging our project group chat to try and gather an understanding of what others were working on for the final submission in order for me to address these areas in my individual reflection and be aware of where everyone was up to on the project to ensure all parts will be completed upon submission date. This proved to be a challenge as none of my group members were replying to my multiple messages which made me extremely stressed out and concerned. In spite of this I stayed calm and handled this well by politely reminding them that the project was due in a week which got them to reply to me I the end. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+
+Upon reflection what I would do next time to improve would be to encourage all group members to choose their final submission parts when I had told them what I was doing for the final submission upon our first group meeting with Mr Ravindra and Anushree, the anticipated results of doing this is less stress, better communication and being aware that all task requirements for the final submission are being evenly met by each group member. This will furthermore result in a better final paper which flows as we would have more time to review and preview all work. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+
+The model theory which is that the study of the relationship between formal theories for example, the variables and outcomes of the issue within our project and their models which are in the form of the causal loop diagram in this sense, are taken as interpretations that satisfy the sentences of that theory which means that the relationship between the formal reality and the model depicting the reality is how the model is interpreted which then links to how the reality is perceived. This proved to be useful as it forced me to really focus on the display of the causal loop diagram to ensure it made sense, was easily legible and depicted outcomes of the problem accurately, as what I learnt from this theory is that the model needs to be clear and concise for the information and data to be interpreted correctly. 
