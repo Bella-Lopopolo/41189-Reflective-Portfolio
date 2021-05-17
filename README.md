@@ -1,6 +1,6 @@
 # 41189-Reflective-Portfolio
 
-## My learnings for each week - Isabella Lopopolo
+## My Learnings For Each Week - Isabella Lopopolo
 
 ### Week 2:
 
