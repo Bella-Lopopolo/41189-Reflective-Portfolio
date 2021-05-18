@@ -584,3 +584,53 @@ Upon reflection what I would do next time to improve would be to encourage all g
 
 
 The model theory which is that the study of the relationship between formal theories for example, the variables and outcomes of the issue within our project and their models which are in the form of the causal loop diagram in this sense, are taken as interpretations that satisfy the sentences of that theory which means that the relationship between the formal reality and the model depicting the reality is how the model is interpreted which then links to how the reality is perceived. This proved to be useful as it forced me to really focus on the display of the causal loop diagram to ensure it made sense, was easily legible and depicted outcomes of the problem accurately, as what I learnt from this theory is that the model needs to be clear and concise for the information and data to be interpreted correctly. 
+
+
+
+
+
+## Week 12: 
+
+
+**What have I learnt this week?** 
+
+
+Through reflecting upon this week, I learnt that people work through uni work at different paces and that some students are more organised than others. This was learnt due through the communication with my team members on our project and how some hadn't started their final submission area due to being busy despite it being due in the middle of this week. This stressed me out as I’m an extremely organised person who was already finished my part for the final submission prior to this week when its due. It was interesting to learn this as I think it will benefit me for future group assignments to realise not everyone works in an organised way due to everyone being different and working differently. 
+
+
+**What do I 'now know' that I did not before?** 
+
+
+Upon reflection I realised that this week I didn’t achieve any new findings due to during our final workshop we were revising our prior learnings, refreshing our knowledge and summarising the subject holistically. 
+
+
+**What insights have I gained?** 
+
+
+Through reflecting on this week no new insights were gained as this week was less formal within the workshop and was more about revision and concluding the subject and our learnings, therefore we went over and refreshed our minds of the prior insights learnt within this semester, which proved to be a beneficial refresher on the course. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+
+Upon reflection my perceived strengths for this week were that I displayed patience when working with my group members who hadn't completed all their work as of yet and used encouragement to assist them in the completion of their required work. This was perceived as a strength as despite of this issue really stressing me out due to me being an organised person, I used the power of pause and looked from another perspective that people can be extremely busy and that they would eventually complete the work in time for submission. 
+
+My perceived weakness for this week once again involved my group members disorganisation on our project and how behind on work they were which resulted in me developing a lot of stress within this situation which I observed as my weakness for this week as it wasn’t a productive emotion. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+
+Through reflecting on this week, I found some challenges faced by our team were trying to get everyone organised and finding a specific day and time that we could aim for everyone to finish their parts by due to not everyone having completed their work as of yet. This proved to be extremely challenging as members had things on preventing them from finishing by the ideal date of Tuesday night. Which meant we had less time to format and edit our report etc. To overcome this, we compromised on mid-day Wednesday to have all written work completed to ensure we could finalise the final submission. 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+
+Upon reflection I have concluded that next time to improve I will probably send less messages to my group members on our group chat trying to gauge where they were up to as I feel this can be a little unproductive, but we were unaware on each other's progress therefore, it needed to be done, however, maybe not as often to ensure people aren't wasting their time checking their phone when they should be working etc. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+
+The power of pause theory which involves stepping back from a situation to move forward in that situation indicates that pausing can gain a fresh perspective and can transcend immediacies which are the key to leadership excellence in today's complex, dynamic world. Through this theory I learnt that to progress through a challenge or conflict its fundamental to pause and think about what is about to be said prior to it being said to avoid confrontation or awkward moments. This learning and theory proved to be useful especially in times of frustration of people not having completed work yet or during the challenges faced this week as it encouraged me to be calm and more open to other perspectives which benefited our group dynamics.
